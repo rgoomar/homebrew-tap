@@ -1,8 +1,8 @@
 cask "maccaffeine" do
-  version "1.1.0"
-  sha256 "fa828b2b0bd0dc08e14aac642b9b95d9502b6042c6c57a8fa712b3f4a3bf9dba"
+  version "1.1.1"
+  sha256 "69be002a2b4154780603f40f1e9aecddbf70a9e7f34508b259d2ec62478bbdd9"
 
-  url "https://github.com/rgoomar/maccaffeine/releases/download/v#{version}/MacCaffeine.zip"
+  url "https://github.com/rgoomar/maccaffeine/releases/download/v#{version}/MacCaffeine.dmg"
   name "MacCaffeine"
   desc "Menu bar app that keeps your Mac awake"
   homepage "https://github.com/rgoomar/maccaffeine"
